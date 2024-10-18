@@ -1,5 +1,5 @@
 class Mobile{
-    String brand; 
+    String brand; // brand, price are the instance variables
     int price; 
     static String name;
     
